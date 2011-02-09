@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+  <field key="author" value="iZAP Team" />
+  <field key="version" value="3.9b" />
+  <field key="dated" value="01-31-2011" />
+  <field key="description" value="Elgg videotizer compatible with elgg 1.6, 1.7, by iZAP Web Solutions. Dependency of izap-elgg-bridge. Found latest copy from <a href='http://www.pluginlotto.com'>http://www.pluginlotto.com</a>" />
+  <field key="website" value="http://www.izap.in/" />
+  <field key="copyright" value="(C) iZAP Web Solutions 2008-2010" />
+  <field key="licence" value="GNU General Public License (GPL) version 2" />
+  <field key="elgg_version" value="2009072201" />
+</plugin_manifest>
