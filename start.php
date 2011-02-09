@@ -215,3 +215,4 @@ register_action('izap_videos_add_favorite', FALSE, dirname(__FILE__) . '/actions
 // register the main fucntion with the elgg system
 register_elgg_event_handler('init', 'system', 'init_izap_videos');
 register_elgg_event_handler('pagesetup', 'system', 'pageSetup_izap_videos');
+//just added new comments
